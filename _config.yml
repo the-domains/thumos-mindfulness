@@ -1,0 +1,28 @@
+name: Thumos Mindfulness
+favicon: null
+layout_spectrum: 0.2481755476910621
+typography_spectrum: 0.7270614998415112
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7938576005399227
+  lightness: 0.38331338041462004
+  saturation: 0.13149113254621625
+  rhythmicContrast: 0.7797529806848615
+purpose: []
