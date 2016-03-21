@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thumos Mindfulness & Psychotherapy]]></title>
+        <description><![CDATA[Thumos Mindfulness & Psychotherapy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 18:37:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>My primary goal through the use of empirically supported cognitive-behavioral therapies, primarily Acceptance and Commitment Therapy (ACT) is to help individuals work towards a life that allows the individual to fully engage in and pursue their personal values. My key goal during therapy is to help my clients engage in the best utilization of their thumos, or central drive and passion, to find a life that is fulfilling and helps the client to attain eudaimonia, or full human flourishing. </p>]]></description>
+            <link>undefinedmy-primary-goal-through-the-use-of-empirically-supported-cog/index.html</link>
+            <guid isPermaLink="false">d3c6c732-ede9-4c9d-886e-d7f255f7aa41</guid>
+            <pubDate>Mon, 21 Mar 2016 18:37:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
